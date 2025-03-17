@@ -1,0 +1,7 @@
+.app-container {
+    font-family: Arial, sans-serif;
+}
+
+.main-content {
+    display: flex;
+}

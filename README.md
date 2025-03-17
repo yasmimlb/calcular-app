@@ -7,7 +7,7 @@ A atividade pedia para recriar um protótipo de uma calculadora o mais parecido 
 O projeto foi desenvolvido utilizando **Vite + React** e conta com pelo menos **5 componentes separados**, conforme solicitado.
 
 🖼️ Protótipo no Figma
-![Imagem do Figma](https://www.figma.com/design/JxR4grt8qslPuWXfRWZKbn/Proejto_Calcular?node-id=402-3&t=Ss9a1V7THgmkPtIu-0)
+![Imagem do Figma](src/imagens/imagem-figma)
 
 🚀 Como rodar o projeto
 1. Clone o repositório:
